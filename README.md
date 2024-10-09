@@ -1,5 +1,5 @@
 # kaggle-yd
-This repo includes my kaggle projects 
+This repo includes my kaggle projects and other owned projects
 
 ## [birdclef24](./birdclef24/)
 
