@@ -3,3 +3,5 @@ checkpoints/
 models/
 
 *.ckpt
+
+.DS_Store
