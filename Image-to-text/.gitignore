@@ -1,0 +1,16 @@
+.DS_Store
+/data
+/cache
+*.csv
+*.pb
+/src/dev/models/variables
+/src/dev/notebooks-donut/donut
+/src/dev/notebooks-donut/mlruns
+
+*mlruns
+*__pycache__
+*pretrained_models
+*ViTCheckpoints
+*logs
+*temp
+*donut-artifacts

@@ -3,7 +3,7 @@
 
 This model uses the SED (Sound Event Detection) framework. [Sound Event Detection](https://arxiv.org/pdf/2107.05463)
 
-
+![alt text](images/workflow.png)
 Due to the limitation of the data we obtained, we only have the label of the extrie data (audio). We do not know which time period in the entire audio data is the time when the label appears. Therefore, it is challenging to use strong label annotation here. We choose weak label for data preparation. Weak label means that the same label is used for the entire audio recording. 
 
 In the data process here, the final label tensor format is converted into the following format:

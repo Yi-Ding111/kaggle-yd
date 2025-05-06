@@ -1,0 +1,8 @@
+seaborn
+pillow
+opencv
+loguru
+onnx
+tf2onnx
+sentencepiece
+mlflow
